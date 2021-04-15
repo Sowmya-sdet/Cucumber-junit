@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="44.289">
+<testcase classname="Login features" name="Login as Admin" time="43.715">
+<system-out><![CDATA[Given I am able to navigate into login page.................................passed
+When I enter the username as "Admin"........................................passed
+And I enter the password as "admin123"......................................passed
+And I click on the Login button.............................................passed
+Then I should see the username as "Welcome Paul"............................passed
+]]></system-out>
+</testcase>
+</testsuite>
